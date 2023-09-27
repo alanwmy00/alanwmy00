@@ -39,13 +39,15 @@ Oh, almost forgot, I am currently looking for a **ML/DS/Quant summer internship*
 
 
 ## 😊 Wakatime
-
+<!--START_SECTION:waka-->
 ```txt
 GDScript3   2 hrs 38 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
-*GDScript3 is just Python in Jupyter Notebook.
+```
+GDScript3 is just Python in Jupyter Notebook.
+```
 ---
 
 ## 📫 How to reach me
