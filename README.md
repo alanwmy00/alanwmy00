@@ -45,7 +45,7 @@ GDScript3   2 hrs 38 mins   █████████████████�
 ```
 
 <!--END_SECTION:waka-->
-
+*GDScript3 is just Python in Jupyter Notebook.
 ---
 
 ## 📫 How to reach me
