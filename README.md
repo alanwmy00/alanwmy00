@@ -15,12 +15,12 @@ Pleaes feel free to check them out.
 Oh, almost forgot, I am currently looking for a **ML/DS/Quant summer internship**.
 
 
-### Now, before scrolling down, would you just spend a few seconds to appreciate how cute **Oliver** is? Thank you very much!
+### Now, before scrolling down, would you just spend a few seconds to appreciate how cute **Oliver** is? Thank you very much!！！
 
 <p align="center">
-    <img src="images/IMG_9888.JPG" alt="I love you!!!" width="600" />
+    <img src="images/IMG_9888.JPG" alt="I love you!!!" width="500" />
 </p>
-
+I'll let him know that you all love him!
 
 ## 😊 More about Me
 - I play tennis :tennis:, badminton :badminton:, and soccer :soccer: (🇦🇷 ¡Campeones del Mundo!!!)
