@@ -31,12 +31,7 @@ I'll let him know that you all love him!
 - I do miss the nice weather in California 🏖️
 - I'm taking Deep Reinforcement Learning & Control this ~~quarter~~ semester.
 
-## 😊 Tools I Use
-
- [![mlds](https://skillicons.dev/icons?i=tensorflow,pytorch,py,java,r,cpp,mysql,postgresql,aws,azure,gcp,mongodb,redis,docker,flask,git,latex,vscode,atom,&perline=22&theme=light)](https://skillicons.dev)
-
-
-
+---
 
 ## 😊 Wakatime
 <!--START_SECTION:waka-->
@@ -49,6 +44,15 @@ GDScript3   2 hrs 38 mins   █████████████████�
 GDScript3 is just Python in Jupyter Notebook.
 ```
 ---
+
+## 😊 Tools I Use
+
+ [![mlds](https://skillicons.dev/icons?i=tensorflow,pytorch,py,java,r,cpp,mysql,postgresql,aws,azure,gcp,mongodb,redis,docker,flask,git,latex,vscode,atom,&perline=22&theme=light)](https://skillicons.dev)
+
+
+
+
+
 
 ## 📫 How to reach me
 
