@@ -27,7 +27,7 @@ I'll let him know that you all love him!
 - Tried and still trying to learn some Español 🇪🇸 (because of 🔟 Messi of course)
 - I have a [map of all the good restaurants](https://maps.app.goo.gl/k83cyjC1XR7H87by9) in all the cities I ever lived in.
     - Favorite types of food (they ARE in order, yes!): Chinese 🇨🇳, Vietnamese 🇻🇳, Mexican 🇲🇽, Persian 🇮🇷, Thai 🇹🇭, Japanese 🇯🇵, Italian 🇮🇹 
-- I worked in a [Laser lab](https://light-matter.seas.ucla.edu/) back during undergrad, despite my understanding of physics does not go beyond FFT.
+- I worked in a [Laser lab](https://light-matter.seas.ucla.edu/) back during undergrad, despite my understanding of physics hardly goes beyond FFT.
 - I do miss the nice weather in California 🏖️
 - I'm taking Deep Reinforcement Learning & Control this ~~quarter~~ semester.
 
