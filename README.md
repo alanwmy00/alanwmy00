@@ -56,7 +56,7 @@ GDScript3 is just Python in Jupyter Notebook.
 ## 📫 How to reach me
 
 <div align="center" style="text-align:center">
-    <a href="mailto:alanwmy00@gmail.com">
+    <a href="mailto:7wf3z0d9w@mozmail.com">
         <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
             alt="Alan's Gmail">
     </a>
