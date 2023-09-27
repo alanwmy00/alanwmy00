@@ -17,33 +17,28 @@ Oh, almost forgot, I am currently looking for a **ML/DS/Quant summer internship*
 
 ---
 
-Now, would you just spend a few seconds to appreciate how cute **Oliver** is before scrolling down. Thank you very much!
+### Now, would you just spend a few seconds to appreciate how cute **Oliver** is before scrolling down 🥺🥺🥺 Thank you very much!
 
-<img src="images/IMG_9888.JPG" alt="Oliver!!!" style="zoom: 10%;" />
+<p align="center">
+    <img src="images/IMG_9888.JPG" alt="I love you!!!" width="800" />
+</p>
 
-
----
 
 ## 😊 More about Me
-- I play tennis:tennis:, badminton:badminton:, and soccer:soccer: (🇦🇷 ¡Campeones del Mundo!!!)
-- Tried and still trying to learn some Español (because of 🔟Messi of course)
+- I play tennis :tennis:, badminton :badminton:, and soccer :soccer: (🇦🇷 ¡Campeones del Mundo!!!)
+- Tried and still trying to learn some Español 🇪🇸 (because of 🔟 Messi of course)
 - I have a [map of all the good restaurants](https://maps.app.goo.gl/k83cyjC1XR7H87by9) in all the cities I ever lived in.
-    - Favorite type of food (they are in order, yes!): Chinese🇨🇳, Vietnamese🇻🇳, Mexican🇲🇽, Persian🇮🇷, Thai🇹🇭, Japanese🇯🇵, Italian🇮🇹 
+    - Favorite types of food (they are in order, yes!): Chinese 🇨🇳, Vietnamese 🇻🇳, Mexican 🇲🇽, Persian 🇮🇷, Thai 🇹🇭, Japanese 🇯🇵, Italian 🇮🇹 
 - I worked in a [Laser lab](https://light-matter.seas.ucla.edu/) back during undergrad, despite my understanding of physics does not go beyond FFT.
 - I do miss the nice weather in California 🏖️
 - I'm taking Deep Reinforcement Learning & Control this ~~quarter~~ semester.
 
 ## 😊 Tools I Use
 
- [![mlds](https://skillicons.dev/icons?i=tensorflow,pytorch,py,java,r,cpp,mysql,postgresql,aws,azure,gcp,mongodb,redis,docker,flask,git,latex,vscode,atom,&theme=light)](https://skillicons.dev)
+ [![mlds](https://skillicons.dev/icons?i=tensorflow,pytorch,py,java,r,cpp,mysql,postgresql,aws,azure,gcp,mongodb,redis,docker,flask,git,latex,vscode,atom,&perline=22&theme=light)](https://skillicons.dev)
 
-```
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,py,java,r,cpp,mysql,postgresql,aws,azure,gcp,mongodb,redis,docker,flask,git,latex,vscode,atom&theme=light" />
-  </a>
-</p>
-```
+
+
 
 ## 😊 Wakatime
 
