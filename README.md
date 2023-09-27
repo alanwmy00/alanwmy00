@@ -1,5 +1,10 @@
 ### Hi there 👋
 <!--START_SECTION:waka-->
+
+```txt
+GDScript3   2 hrs 38 mins   █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 <!--
 **alanwmy00/alanwmy00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
