@@ -25,7 +25,7 @@ I'll let him know that you all love him!
 ## 😊 More about Me
 - I play tennis :tennis:, badminton :badminton:, and soccer :soccer: (🇦🇷 ¡Campeones del Mundo!!!)
 - Tried and still trying to learn some Español 🇪🇸 (because of 🔟 Messi of course)
-- I have a [map of all the good restaurants](https://maps.app.goo.gl/k83cyjC1XR7H87by9) in all the cities I ever lived in.
+- I have a [map of all the good restaurants](https://maps.app.goo.gl/k83cyjC1XR7H87by9) in almost all cities that I have been to.
     - Favorite types of food (they ARE in order, yes!): Chinese 🇨🇳, Vietnamese 🇻🇳, Mexican 🇲🇽, Persian 🇮🇷, Thai 🇹🇭, Japanese 🇯🇵, Italian 🇮🇹 
 - I worked in a [Laser lab](https://light-matter.seas.ucla.edu/) back during undergrad, despite my understanding of physics hardly goes beyond FFT.
 - I do miss the nice weather in California 🏖️
@@ -42,10 +42,6 @@ Python      1 min           ▒░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-```
-GDScript3 is just Python in Jupyter Notebook.
-```
-
 
 ## 😊 Tools I Use
 
