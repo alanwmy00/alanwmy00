@@ -38,9 +38,12 @@ I'll let him know that you all love him!
 <!--START_SECTION:waka-->
 
 ```txt
-GDScript3   2 hrs 38 mins   ████████████████████████▒   97.89 %
-Markdown    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.42 %
-Python      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+From: 22 September 2023 - To: 29 September 2023
+
+Total Time: 5 hrs 34 mins
+
+Python     5 hrs 31 mins   ████████████████████████▓   99.31 %
+Markdown   2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
 ```
 
 <!--END_SECTION:waka-->
