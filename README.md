@@ -39,10 +39,10 @@ I'll let him know that you all love him!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 14 November 2023
+From: 09 November 2023 - To: 16 November 2023
 
-Other    37 hrs          ███████████████████████▒░   92.98 %
-Python   2 hrs 47 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.02 %
+Other    37 hrs 43 mins  ██████████████████████▓░░   91.03 %
+Python   3 hrs 43 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   08.97 %
 ```
 
 <!--END_SECTION:waka-->
