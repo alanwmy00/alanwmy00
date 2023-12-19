@@ -26,8 +26,11 @@ I'll let him know that you all love him!
 ## 😊 More about Me
 - I play tennis :tennis:, badminton :badminton:, and soccer :soccer: (🇦🇷 ¡Campeones del Mundo!!!)
 - Tried and still trying to learn some Español 🇪🇸 (because of 🔟 Messi of course)
-- I have a [map of all the good restaurants](https://maps.app.goo.gl/k83cyjC1XR7H87by9) in almost all cities (where Google is available) that I have been to.
-    - Favorite types of food (they ARE in order, yes!): Chinese 🇨🇳, Vietnamese 🇻🇳, Mexican 🇲🇽, Persian 🇮🇷, Thai 🇹🇭, Japanese 🇯🇵, Italian 🇮🇹
+- Favorite types of food (they ARE in order, yes!): Chinese 🇨🇳, Vietnamese 🇻🇳, Mexican 🇲🇽, Persian 🇮🇷, Thai 🇹🇭, Japanese 🇯🇵, Italian 🇮🇹
+- I also have a some maps of all the good restaurants in almost all cities (where Google is available) that I have been to.
+    - Food: [https://maps.app.goo.gl/Jj28k2rAc9jjkkhW6](https://maps.app.goo.gl/Jj28k2rAc9jjkkhW6)
+    - Dessert: [https://maps.app.goo.gl/yKYPymfDvAGbQsJEA](https://maps.app.goo.gl/yKYPymfDvAGbQsJEA)
+    - Drink: [https://maps.app.goo.gl/vM1HztpWRzkeBTEt8](https://maps.app.goo.gl/vM1HztpWRzkeBTEt8)
 - Favortite TV shows: Yes Minister, Yes Prime Minister, The Office
 - Favorite movie: Begin Again
 - I worked in a [Laser lab](https://light-matter.seas.ucla.edu/) back during undergrad, despite my understanding of physics hardly goes beyond FFT.
