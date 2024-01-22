@@ -42,7 +42,7 @@ I'll let him know that you all love him!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 January 2024 - To: 20 January 2024
+From: 14 January 2024 - To: 21 January 2024
 
 Java           2 hrs 19 mins   █████████████░░░░░░░░░░░░   51.34 %
 Bash           55 mins         █████░░░░░░░░░░░░░░░░░░░░   20.27 %
