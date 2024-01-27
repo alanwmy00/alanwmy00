@@ -42,13 +42,13 @@ I'll let him know that you all love him!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 January 2024 - To: 25 January 2024
+From: 19 January 2024 - To: 26 January 2024
 
-Python           1 hr 32 mins    ██████████▓░░░░░░░░░░░░░░   42.40 %
-Bash             55 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.42 %
-Java             46 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.38 %
-GitIgnore file   5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 %
-Shell Script     5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Python            4 hrs 48 mins   ███████████████████▒░░░░░   76.97 %
+Terraform         52 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+Text              8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+JSON              7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+HCL               6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 %
 ```
 
 <!--END_SECTION:waka-->
