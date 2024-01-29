@@ -16,7 +16,7 @@ Pleaes feel free to check them out.
 Oh, almost forgot, I am actively looking for a **DS/ML/Quant summer internship**.
 
 
-### Now, before scrolling down, would you just spend a few seconds to appreciate how cute **Oliver** is? Thank you very much!!!
+### Now, before scrolling down, would you just spend a few seconds to appreciate how cute **Oliver** is? Thank you very much!!! And you may also [follow him here](https://www.instagram.com/olistl969)!
 
 <p align="center">
     <img src="images/IMG_9888.JPG" alt="I love you!!!" width="500" />
