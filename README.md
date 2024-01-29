@@ -7,10 +7,11 @@ Here is my **favorite consulting / team project**:
 
 -  [**Data Consulting for Bluestem Brands – Impact of Promotional Codes During Checkout**](https://github.com/alanwmy00/FingerhutConsulting/)
 
-Also my **favorite technical / individual project**: 
+Also my **favorite technical / individual projects**: 
 
 -  [**Personalized Book Search**](https://github.com/alanwmy00/PersonalizedBookSearch)  
-
+-  [**AI Receipt Hub**](https://aireceipt.streamlit.app/)
+  
 Pleaes feel free to check them out. 
 
 Oh, almost forgot, I am actively looking for a **DS/ML/Quant summer internship**.
