@@ -43,13 +43,13 @@ I'll let him know that you all love him!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 February 2024 - To: 19 February 2024
+From: 13 February 2024 - To: 20 February 2024
 
-Java             5 hrs 31 mins   █████████████▒░░░░░░░░░░░   53.14 %
-JSON             1 hr 53 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.23 %
-Python           1 hr 25 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.71 %
-Go               37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-YAML             36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
+Java              14 hrs 6 mins   ██████████████████░░░░░░░   71.98 %
+JSON              1 hr 42 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.72 %
+Python            1 hr 31 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+Go                37 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.20 %
+YAML              36 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.11 %
 ```
 
 <!--END_SECTION:waka-->
