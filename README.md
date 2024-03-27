@@ -14,7 +14,7 @@ Also my **favorite technical / individual projects**:
   
 Pleaes feel free to check them out. 
 
-Oh, almost forgot, I am actively looking for a **DS/ML/Quant summer internship**.
+Oh, almost forgot, gonna work as a DS intern at CVS for summer 2024.
 
 
 ### Now, before scrolling down, would you just spend a few seconds to appreciate how cute **Oliver** is? Thank you very much!!! And you may also [follow him here](https://www.instagram.com/olistl969)!
