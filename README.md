@@ -43,13 +43,13 @@ I'll let him know that you all love him!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 19 March 2024 - To: 26 March 2024
+From: 20 March 2024 - To: 27 March 2024
 
-Scala          2 hrs 59 mins   ██████████████░░░░░░░░░░░   55.47 %
-Other          1 hr 12 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.44 %
-Bash           48 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 %
-Java           14 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
-Python         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.64 %
+Scala   2 hrs 44 mins   █████████████▓░░░░░░░░░░░   54.36 %
+Other   1 hr 12 mins    ██████░░░░░░░░░░░░░░░░░░░   23.91 %
+Bash    48 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.02 %
+Java    14 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
+JSON    2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
