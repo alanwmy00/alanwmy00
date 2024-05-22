@@ -1,7 +1,7 @@
 # Hi there, I'm **Alan Wang**! 👋
 [![wakatime](https://wakatime.com/badge/user/05699c06-d71f-48cd-a8b9-ef310a41cda8.svg)](https://wakatime.com/@05699c06-d71f-48cd-a8b9-ef310a41cda8) 
 
-I am currently a **Master of Computational Data Science** ([MCDS](https://mcds.cs.cmu.edu/)) at **Carnegie Mellon University**. I also hold a Bachelor of Science degree in **Data Theory** from **UCLA**💙💛. I am currently focusing on data science and machine learning and their applications in various fields. I have been working extensively on **data and software consulting**. 
+-- I am currently a **Master of Computational Data Science** ([MCDS](https://mcds.cs.cmu.edu/)) at **Carnegie Mellon University**. I also hold a Bachelor of Science degree in **Data Theory** from **UCLA**💙💛. I am currently focusing on data science and machine learning and their applications in various fields. I have been working extensively on **data and software consulting**. 
 
 Here is my **favorite consulting / team project**: 
 
