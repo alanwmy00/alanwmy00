@@ -2,7 +2,7 @@
 [![wakatime](https://wakatime.com/badge/user/05699c06-d71f-48cd-a8b9-ef310a41cda8.svg)](https://wakatime.com/@05699c06-d71f-48cd-a8b9-ef310a41cda8) 
 
 <!-- I am currently a **Master of Computational Data Science** ([MCDS](https://mcds.cs.cmu.edu/)) at **Carnegie Mellon University**. I also hold a Bachelor of Science degree in **Data Theory** from **UCLA**💙💛. I am currently focusing on data science and machine learning and their applications in various fields. I have been working extensively on **data and software consulting**.  -->
-Here is my **favorite consulting / team project**: 
+<!-- Here is my **favorite consulting / team project**: 
 
 -  [**Data Consulting for Bluestem Brands – Impact of Promotional Codes During Checkout**](https://github.com/alanwmy00/FingerhutConsulting/)
 
@@ -13,7 +13,7 @@ Also my **favorite technical / individual projects**:
   
 Pleaes feel free to check them out. 
 
-Oh, almost forgot, gonna work as a DS intern at CVS for summer 2024.
+Oh, almost forgot, gonna work as a DS intern at CVS for summer 2024.  -->
 
 
 ### Now, before scrolling down, would you just spend a few seconds to appreciate how cute **Oliver** is? Thank you very much!!! And you may also [follow him here](https://www.instagram.com/olistl969)!
