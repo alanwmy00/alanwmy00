@@ -42,7 +42,7 @@ I'll let him know that you all love him!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2024 - To: 17 June 2024
+From: 11 June 2024 - To: 18 June 2024
 
 Python   1 hr 22 mins    █████████████████████████   100.00 %
 ```
