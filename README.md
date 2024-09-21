@@ -42,11 +42,11 @@ I'll let him know that you all love him!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 September 2024 - To: 19 September 2024
+From: 13 September 2024 - To: 20 September 2024
 
-Java     2 hrs 20 mins   ██████████████████▒░░░░░░   73.62 %
-Python   50 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.35 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Java     2 hrs 20 mins   █████████████████████░░░░   84.42 %
+Python   25 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.55 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
 ```
 
 <!--END_SECTION:waka-->
