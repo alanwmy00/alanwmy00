@@ -35,7 +35,6 @@ I'll let him know that you all love him!
 - Favorite movie: Begin Again
 - I worked in a [Laser lab](https://light-matter.seas.ucla.edu/) back during undergrad, despite my understanding of physics hardly goes beyond FFT.
 - I do miss the nice weather in California 🏖️
-- I'm taking Multimodal ML, Advanced NLP, A/B Testing, and Cloud Computing this ~~quarter~~ semester. I took Deep Reinforcement Learning & Control in Fall 2023.
 
 
 ## 😊 Wakatime
