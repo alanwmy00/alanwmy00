@@ -41,7 +41,7 @@ I'll let him know that you all love him!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 September 2024 - To: 30 September 2024
+From: 24 September 2024 - To: 01 October 2024
 
 Python   1 hr 34 mins    █████████████░░░░░░░░░░░░   51.85 %
 Java     1 hr 16 mins    ██████████▒░░░░░░░░░░░░░░   41.80 %
