@@ -41,10 +41,10 @@ I'll let him know that you all love him!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2024 - To: 07 October 2024
+From: 01 October 2024 - To: 08 October 2024
 
-Python   1 hr 12 mins    ███████████████░░░░░░░░░░   59.39 %
-Java     49 mins         ██████████░░░░░░░░░░░░░░░   40.61 %
+Java     1 hr 38 mins    █████████████░░░░░░░░░░░░   51.49 %
+Python   1 hr 32 mins    ████████████░░░░░░░░░░░░░   48.51 %
 ```
 
 <!--END_SECTION:waka-->
