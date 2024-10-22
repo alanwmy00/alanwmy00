@@ -60,19 +60,6 @@ Markdown   1 min           ▒░░░░░░░░░░░░░░░░�
 
 
 
-## 📫 How to reach me
-
-<div align="center" style="text-align:center">
-    <a href="mailto:7wf3z0d9w@mozmail.com">
-        <img src="https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"
-            alt="Alan's Gmail">
-    </a>
-    <a href="https://www.linkedin.com/in/alanwmy00/">
-        <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-            alt="Alan's LinkedIn">
-    </a>
-</div>
-
 ---
 
 <br>
