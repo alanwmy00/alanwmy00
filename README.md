@@ -41,11 +41,10 @@ I'll let him know that you all love him!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2024 - To: 14 November 2024
+From: 08 November 2024 - To: 15 November 2024
 
-Python   4 hrs 16 mins   ████████████████████████▓   98.70 %
-Scala    1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.60 %
+Python   5 hrs 6 mins    █████████████████████████   99.49 %
+Other    1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
 
 <!--END_SECTION:waka-->
