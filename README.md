@@ -41,11 +41,11 @@ I'll let him know that you all love him!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 November 2024 - To: 04 December 2024
+From: 28 November 2024 - To: 05 December 2024
 
-JavaScript   1 hr 32 mins    █████████████████░░░░░░░░   67.65 %
-Python       43 mins         ████████░░░░░░░░░░░░░░░░░   32.18 %
-Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+JavaScript   1 hr 32 mins    ███████████████▓░░░░░░░░░   62.55 %
+Python       54 mins         █████████▒░░░░░░░░░░░░░░░   37.29 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
 ```
 
 <!--END_SECTION:waka-->
