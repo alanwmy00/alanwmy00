@@ -41,7 +41,7 @@ I'll let him know that you all love him!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 November 2024 - To: 06 December 2024
+From: 01 December 2024 - To: 08 December 2024
 
 Python   51 mins         █████████████████████████   100.00 %
 ```
