@@ -41,7 +41,7 @@ I'll let him know that you all love him!
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 December 2024 - To: 14 December 2024
+From: 08 December 2024 - To: 15 December 2024
 
 JavaScript   40 mins         █████████████████████████   100.00 %
 ```
