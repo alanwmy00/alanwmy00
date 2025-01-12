@@ -16,13 +16,13 @@ Pleaes feel free to check them out.
 Oh, almost forgot, gonna work as a DS intern at CVS for summer 2024.  -->
 
 
-### Now, before scrolling down, would you just spend a few seconds to appreciate how adorable **Oliver** is? Thank you very much!!! And you may also [follow him here](https://www.instagram.com/olistl969)!
+<!-- ### Now, before scrolling down, would you just spend a few seconds to appreciate how adorable **Oliver** is? Thank you very much!!! And you may also [follow him here](https://www.instagram.com/olistl969)! -->
 
 <p align="center">
     <img src="images/IMG_9888.JPG" alt="I love you!!!" width="500" />
 </p>
-I'll let him know that you all love him!
-
+<!-- I'll let him know that you all love him! -->
+<!-- 
 ## 😊 More about Me
 - I play tennis :tennis:, badminton :badminton:, and soccer :soccer: (🇦🇷 ¡Campeones del Mundo!!!)
 - Tried and still trying to learn some Español 🇪🇸 (because of 🔟 Messi of course)
@@ -34,7 +34,7 @@ I'll let him know that you all love him!
 - Favortite TV shows: Yes Minister, Yes Prime Minister, The Office
 - Favorite movie: Begin Again
 - I worked in a [Laser lab](https://light-matter.seas.ucla.edu/) back during undergrad, despite my understanding of physics hardly goes beyond FFT.
-- I do miss the nice weather in California 🏖️
+- I do miss the nice weather in California 🏖️ -->
 
 
 ## 😊 Wakatime
@@ -48,9 +48,9 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-## 😊 Tools I Use
+<!-- ## 😊 Tools I Use
 
  [![mlds](https://skillicons.dev/icons?i=tensorflow,pytorch,py,java,r,cpp,mysql,postgresql,aws,azure,gcp,mongodb,redis,docker,flask,git,latex,vscode,atom,&perline=22&theme=light)](https://skillicons.dev)
 
-
+ -->
 
