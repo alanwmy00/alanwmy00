@@ -41,13 +41,13 @@ Oh, almost forgot, gonna work as a DS intern at CVS for summer 2024.  -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 May 2025 - To: 27 May 2025
+From: 21 May 2025 - To: 28 May 2025
 
-Python       4 hrs 46 mins   ██████████████▓░░░░░░░░░░   59.32 %
-Markdown     1 hr 37 mins    █████░░░░░░░░░░░░░░░░░░░░   20.09 %
-VB.NET       1 hr 5 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.62 %
-Text         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.84 %
-Git Config   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.26 %
+Python       2 hrs 57 mins   ██████████▒░░░░░░░░░░░░░░   41.62 %
+VB.NET       2 hrs 4 mins    ███████▒░░░░░░░░░░░░░░░░░   29.18 %
+Markdown     1 hr 37 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.74 %
+Text         23 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.48 %
+Other        4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
 <!--END_SECTION:waka-->
