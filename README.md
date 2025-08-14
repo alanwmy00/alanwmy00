@@ -41,10 +41,10 @@ Oh, almost forgot, gonna work as a DS intern at CVS for summer 2024.  -->
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2025 - To: 12 August 2025
+From: 06 August 2025 - To: 13 August 2025
 
-Python      46 mins         ████████████████████▒░░░░   81.57 %
-RMarkdown   10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.43 %
+Python      48 mins         ████████████████████▓░░░░   82.23 %
+RMarkdown   10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.77 %
 ```
 
 <!--END_SECTION:waka-->
